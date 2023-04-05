@@ -24,10 +24,10 @@ For detailed information about the experimental setup, please refer to the paper
 
 
   
-Title: "Joint Heterogeneous PUF-based Security-Enhanced IoT Authentication"
+* **Title**: "Joint Heterogeneous PUF-based Security-Enhanced IoT Authentication"
 
-Author: Seungwook Yoon, Seungnam Han, and Euiseok Hwang
+* **Author**: Seungwook Yoon, Seungnam Han, and Euiseok Hwang
 
-Year: 2023
+* **Year**: 2023
 
-Status: In review
+* **Status**: In review
