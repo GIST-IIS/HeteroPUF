@@ -1,5 +1,3 @@
-# HybridPUF
-
 ![image](https://user-images.githubusercontent.com/129144245/230054742-664e2c4a-be42-401e-883f-f93370c98fda.png)
 
 We are currently conducting research on heterogeneous PUF that combines various PUF models.
