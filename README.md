@@ -9,13 +9,12 @@ We shared channel state information (CSI) amplitudes dataset for generating PUF-
 
 **The number of locations**: 50
 
-* **Red line**: Server > IoT
-* **Blue line**: IoT > Server
+* **Blue line**: Server > IoT
+* **Red line**: IoT > Server
 * **Yellow line**: Server > Adversary
 * **Green line**: IoT > Adversary
 
 ![Figure 2023-04-05 205836](https://user-images.githubusercontent.com/129144245/230073804-6bbb5f82-7269-45b7-84ca-21c6011ee01b.png)
-
 
 
 ## Paper
