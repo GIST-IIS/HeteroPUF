@@ -33,5 +33,4 @@ For detailed information about the experimental setup, please refer to the paper
 
 
 
-![image](https://user-images.githubusercontent.com/129144245/230946470-67c9f584-1c3b-45e0-933a-2ee834ca8bd4.png)
-
+![image](https://user-images.githubusercontent.com/129144245/230946829-b675e251-5270-4dc5-b7bb-23c27a5628f3.png)
