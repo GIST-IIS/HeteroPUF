@@ -27,9 +27,11 @@ For detailed information about the experimental setup, please refer to the paper
 
 * **Author**: Seungwook Yoon, Seungnam Han, and Euiseok Hwang
 
+* **Author**: IEEE Internet of Things Journal
+
 * **Year**: 2023
 
-* **Status**: In review
+* **Status**: Accepted for publication 
 
 
 
